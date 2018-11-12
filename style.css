@@ -1,0 +1,10 @@
+body {
+  background:yellow;
+}
+.first {
+  font-weight: bold;
+  font-style: italic;
+}
+.h1 {
+  color: red
+}
